@@ -1,1 +1,1 @@
-# FMML_COURSE_ASSIGNMENTS
+Foundations of Modern Machine Learning Course Assignments.(FMML)
