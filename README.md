@@ -1,2 +1,2 @@
 # Foundations of Modern Machine Learning Course Assignments.(FMML)
-IIIT HYDERABAD
+Welcome to the "Foundation for Modern Machine Learning" (FMML) course repository! This course is a comprehensive introduction to machine learning, covering essential topics such as Clustering, Decision Trees,Machine learning models, regression, classification, and more. It is Implemented using Python.With monthly labs and assignments this course provide hands-on experience in applying machine learning algorithms effectively.
